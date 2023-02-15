@@ -1,0 +1,6 @@
+go 1.20
+
+use "./arrays and slices"
+use "./hello"
+use "./integers"
+use "./iteration"
