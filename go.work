@@ -1,7 +1,13 @@
 go 1.20
 
 use "./arrays and slices"
-use "./hello"
-use "./integers"
-use "./iteration"
-use "./fizzbuzz"
+
+use ./hello
+
+use ./integers
+
+use ./iteration
+
+use ./fizzbuzz
+
+use "./structs, methods and interfaces"
