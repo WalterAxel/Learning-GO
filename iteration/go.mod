@@ -1,3 +1,3 @@
-module interation
+module iteration
 
 go 1.20

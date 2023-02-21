@@ -2,10 +2,6 @@ package main
 
 import "testing"
 
-type Shape interface {
-	Area() float64
-}
-
 func TestArea(t *testing.T) {
 	areaTests := []struct {
 		name    string
