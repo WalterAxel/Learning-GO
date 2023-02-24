@@ -1,17 +1,12 @@
 go 1.20
 
-use "./arrays and slices"
-
-use ./hello
-
-use ./integers
-
-use ./iteration
-
-use ./fizzbuzz
-
 use (
-	"./daily carb intake"
-	"./pointers and errors"
-	"./structs, methods and interfaces"
+    ./arrays and slices
+    ./fizzbuzz
+    ./hello
+    ./integers
+    ./iteration
+    ./maps
+    ./pointers and errors
+    ./structs, methods and interfaces
 )
