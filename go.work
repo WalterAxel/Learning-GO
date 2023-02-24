@@ -1,12 +1,12 @@
 go 1.20
 
 use (
-    ./arrays and slices
-    ./fizzbuzz
-    ./hello
-    ./integers
-    ./iteration
-    ./maps
-    ./pointers and errors
-    ./structs, methods and interfaces
+	"./arrays and slices"
+	"./pointers and errors"
+	"./structs, methods and interfaces"
+	./fizzbuzz
+	./hello
+	./integers
+	./iteration
+	./maps
 )
